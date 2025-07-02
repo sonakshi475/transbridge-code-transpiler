@@ -14,11 +14,11 @@ The project is implemented using Python's `tkinter` for GUI, `ast` for Python co
 
 ## 🔧 Features
 
-- ✍️ **Write Python code** in the GUI
-- 🧠 **AST-based parser** converts Python to IR
-- 💻 **Java code generator** outputs readable Java code
-- 🧪 **Simulation mode** mimics Python execution with real user input
-- 📥 **User input fields** dynamically generated for each `input()` call
+-  **Write Python code** in the GUI
+-  **AST-based parser** converts Python to IR
+-  **Java code generator** outputs readable Java code
+-  **Simulation mode** mimics Python execution with real user input
+-  **User input fields** dynamically generated for each `input()` call
 
 ---
 
